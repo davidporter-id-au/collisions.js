@@ -1,0 +1,17 @@
+{
+  "name": "collisions",
+  "version": "0.0.0",
+  "description": "A humble little library for detecting date collisions, (or anything else linear)",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma test"
+  },
+  "keywords": [
+    "dates",
+    "collisions",
+    "javascript",
+    "angularjs"
+  ],
+  "author": "David Porter",
+  "license": "ISC"
+}
