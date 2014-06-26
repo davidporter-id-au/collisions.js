@@ -2,7 +2,7 @@
   "name": "collisions",
   "version": "0.0.0",
   "description": "A humble little library for detecting date collisions, (or anything else linear)",
-  "main": "index.js",
+  "main": "dist/collisions.min.js",
   "scripts": {
     "test": "karma test"
   },
